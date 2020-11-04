@@ -5,4 +5,3 @@ function diceRoll() {
 $(document).ready(function() {
   $("#btn").click(diceRoll);
  });
-  
